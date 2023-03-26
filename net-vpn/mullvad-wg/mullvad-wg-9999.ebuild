@@ -6,8 +6,8 @@ EAPI=7
 inherit git-r3
 
 DESCRIPTION="Small script for Mullvad with Wireguard on Gentoo"
-EGIT_REPO_URI="https://github.com/phvr/mullvad-wg.git"
-HOMEPAGE="https://gitlab.com/adihrustic/Mullvad-WireGuard-script/"
+EGIT_REPO_URI="https://github.com/yanghuaxuan/mullvad-wg.git"
+HOMEPAGE="https://github.com/yanghuaxuan/mullvad-wg"
 
 LICENSE="GPL-3"
 SLOT="0"
