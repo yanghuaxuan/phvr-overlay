@@ -18,7 +18,7 @@ DEPEND=""
 RDEPEND="${DEPEND}
 		app-admin/sudo
 		app-misc/jq
-		net-dns/openresolv
+		virtual/resolvconf
 		net-firewall/iptables
 		net-misc/curl
 		net-vpn/wireguard-tools"
